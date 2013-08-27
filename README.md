@@ -1,0 +1,1 @@
+First application using Ruby on Rails :) 
